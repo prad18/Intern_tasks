@@ -1,0 +1,23 @@
+TEXT : English  NER: LANGUAGE
+TEXT : English  NER: LANGUAGE
+TEXT : The Ant and the Grasshopper  NER: PERSON
+TEXT : the summers  NER: DATE
+TEXT : winters  NER: DATE
+TEXT : winters  NER: DATE
+TEXT : the winter  NER: DATE
+TEXT : The Merchant's Donkey- Moral  NER: PERSON
+TEXT : The next day  NER: DATE
+TEXT : A Lazy Man and the God's Plan-  NER: WORK_OF_ART
+TEXT : The next day  NER: DATE
+TEXT : The Giving Tree- Story  NER: WORK_OF_ART
+TEXT : all day  NER: TIME
+TEXT : Many years later  NER: DATE
+TEXT : The Lion and the Mouse  NER: PERSON
+TEXT : English  NER: LANGUAGE
+TEXT : a few days  NER: DATE
+TEXT : Two  NER: CARDINAL
+TEXT : English  NER: LANGUAGE
+TEXT : two  NER: CARDINAL
+TEXT : One  NER: CARDINAL
+TEXT : two  NER: CARDINAL
+TEXT : second  NER: ORDINAL
